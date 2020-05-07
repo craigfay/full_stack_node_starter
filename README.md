@@ -1,6 +1,3 @@
-# About 
-A template for creating lightweight full stack apps with NodeJS, Express, Knex, and Nunjucks.
-
 # Who is this for?
 Anybody that needs to serve HTML content, but needs to inject dynamic values from a SQL database.
 

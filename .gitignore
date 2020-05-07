@@ -1,0 +1,12 @@
+# OSX Nonsense
+.DS_Store
+
+# Node Dependencies
+/node_modules/
+
+# Vim Files
+*.swp
+*.swo
+
+# Sqlite Databases
+*.sqlite3

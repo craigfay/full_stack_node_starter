@@ -6,6 +6,7 @@ Anybody that needs to serve HTML content, but needs to inject dynamic values fro
 * Run database migrations: `npm run migrate:latest`
 * Run database seeding: `npm run seed:run`
 * Start development server: `npm run dev`
+* Visit at `localhost:3000/songs/1`
 
 # Structure
 

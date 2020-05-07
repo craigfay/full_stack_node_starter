@@ -30,3 +30,9 @@ Anybody that needs to serve HTML content, but needs to inject dynamic values fro
 * **server.js**
   * Starts an HTTP server, and defines how URLs map to static / dynamic content.
 
+
+# Supporting Documentation
+* [Express](https://expressjs.com/)
+* [Knex](http://knexjs.org/)
+* [Nunjucks](https://mozilla.github.io/nunjucks/)
+
